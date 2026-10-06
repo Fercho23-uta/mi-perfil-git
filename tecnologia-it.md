@@ -32,3 +32,11 @@ La Inteligencia Artificial puede utilizarse en diferentes áreas, por ejemplo, e
 
 La Inteligencia Artificial puede utilizarse en diferentes áreas, por ejemplo, en asistentes virtuales, recomendaciones de contenido, análisis de datos, automatización de tareas y herramientas de apoyo para la programación.
 
+
+
+\## Ventajas de la Inteligencia Artificial
+
+
+
+Una de las principales ventajas de la Inteligencia Artificial es que permite automatizar tareas y procesar grandes cantidades de información. También puede ayudar a las personas a tomar decisiones, ahorrar tiempo y mejorar diferentes procesos.
+
