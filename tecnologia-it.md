@@ -40,3 +40,11 @@ La Inteligencia Artificial puede utilizarse en diferentes áreas, por ejemplo, e
 
 Una de las principales ventajas de la Inteligencia Artificial es que permite automatizar tareas y procesar grandes cantidades de información. También puede ayudar a las personas a tomar decisiones, ahorrar tiempo y mejorar diferentes procesos.
 
+
+
+\## Desventajas de la Inteligencia Artificial
+
+
+
+La Inteligencia Artificial también tiene algunas desventajas. Puede generar dependencia de la tecnología, producir resultados incorrectos si la información utilizada no es adecuada y provocar cambios en algunos empleos debido a la automatización.
+
