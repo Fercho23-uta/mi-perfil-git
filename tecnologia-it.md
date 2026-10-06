@@ -24,3 +24,11 @@ Me gustaría aprender sobre Inteligencia Artificial porque es una tecnología qu
 
 La Inteligencia Artificial puede utilizarse en diferentes áreas, por ejemplo, en asistentes virtuales, recomendaciones de contenido, análisis de datos, automatización de tareas y herramientas de apoyo para la programación.
 
+
+
+\## Aplicaciones de la Inteligencia Artificial
+
+
+
+La Inteligencia Artificial puede utilizarse en diferentes áreas, por ejemplo, en asistentes virtuales, recomendaciones de contenido, análisis de datos, automatización de tareas y herramientas de apoyo para la programación.
+
