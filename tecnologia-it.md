@@ -10,3 +10,9 @@ La tecnología que me gustaría aprender es la Inteligencia Artificial. Es un á
 
 
 
+\## Motivos para aprender Inteligencia Artificial
+
+
+
+Me gustaría aprender sobre Inteligencia Artificial porque es una tecnología que está creciendo rápidamente y tiene aplicaciones en diferentes áreas. También considero que puede ayudarme a mejorar mis conocimientos de programación y tecnología.
+
