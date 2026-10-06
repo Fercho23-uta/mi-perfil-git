@@ -16,3 +16,11 @@ La tecnología que me gustaría aprender es la Inteligencia Artificial. Es un á
 
 Me gustaría aprender sobre Inteligencia Artificial porque es una tecnología que está creciendo rápidamente y tiene aplicaciones en diferentes áreas. También considero que puede ayudarme a mejorar mis conocimientos de programación y tecnología.
 
+
+
+\## Aplicaciones de la Inteligencia Artificial
+
+
+
+La Inteligencia Artificial puede utilizarse en diferentes áreas, por ejemplo, en asistentes virtuales, recomendaciones de contenido, análisis de datos, automatización de tareas y herramientas de apoyo para la programación.
+
