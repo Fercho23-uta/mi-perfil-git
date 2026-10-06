@@ -26,14 +26,6 @@ La Inteligencia Artificial puede utilizarse en diferentes áreas, por ejemplo, e
 
 
 
-\## Aplicaciones de la Inteligencia Artificial
-
-
-
-La Inteligencia Artificial puede utilizarse en diferentes áreas, por ejemplo, en asistentes virtuales, recomendaciones de contenido, análisis de datos, automatización de tareas y herramientas de apoyo para la programación.
-
-
-
 \## Ventajas de la Inteligencia Artificial
 
 
@@ -47,4 +39,20 @@ Una de las principales ventajas de la Inteligencia Artificial es que permite aut
 
 
 La Inteligencia Artificial también tiene algunas desventajas. Puede generar dependencia de la tecnología, producir resultados incorrectos si la información utilizada no es adecuada y provocar cambios en algunos empleos debido a la automatización.
+
+
+
+\## Ejemplos de la Inteligencia Artificial
+
+
+
+Algunos ejemplos de Inteligencia Artificial son los asistentes virtuales, los sistemas de recomendación de películas y música, los chatbots, las herramientas de generación de imágenes y los sistemas que ayudan a analizar información.
+
+
+
+\## Conclusiones
+
+
+
+Considero que aprender Inteligencia Artificial puede ser útil para mi formación profesional, ya que es una tecnología que tiene cada vez más aplicaciones. Conocer sus ventajas, desventajas y diferentes usos me permitirá comprender mejor cómo puede utilizarse de manera responsable.
 
